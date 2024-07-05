@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-SamSteve
+My name is Samuel Steve Mulyono, I'm currently majoring in Informatics at Institut Teknologi Sepuluh Nopember. 
+
