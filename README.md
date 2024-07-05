@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Samuel Steve Mulyono, I'm currently majoring in Informatics at Institut Teknologi Sepuluh Nopember. 
+My name is Samuel Steve Mulyono, I'm a sophomore year college student majoring in Informatics at Institut Teknologi Sepuluh Nopember. 
 
